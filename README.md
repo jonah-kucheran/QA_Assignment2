@@ -1,6 +1,6 @@
 ## How to Set Up
 - Open Project in VS Code
-- Install Dependances
+- Install Dependances (if this doesn't work, this project uses readline and mysql)
 ```bash
 npm install
 ```
