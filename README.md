@@ -21,3 +21,9 @@ replace your_username and your_password with your details
 ```bash
 node --test
 ```
+
+## How to Use
+- Run this command in the terminal
+```bash
+npm start
+```
